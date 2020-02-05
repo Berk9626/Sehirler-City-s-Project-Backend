@@ -1,0 +1,14 @@
+C:\301Sabah\MvCCoreApi\PersonelApi\PersonelApi\bin\Debug\netcoreapp2.1\PersonelApi.deps.json
+C:\301Sabah\MvCCoreApi\PersonelApi\PersonelApi\bin\Debug\netcoreapp2.1\PersonelApi.runtimeconfig.json
+C:\301Sabah\MvCCoreApi\PersonelApi\PersonelApi\bin\Debug\netcoreapp2.1\PersonelApi.runtimeconfig.dev.json
+C:\301Sabah\MvCCoreApi\PersonelApi\PersonelApi\bin\Debug\netcoreapp2.1\PersonelApi.dll
+C:\301Sabah\MvCCoreApi\PersonelApi\PersonelApi\bin\Debug\netcoreapp2.1\PersonelApi.pdb
+C:\301Sabah\MvCCoreApi\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.1\PersonelApi.csprojAssemblyReference.cache
+C:\301Sabah\MvCCoreApi\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.1\PersonelApi.csproj.CoreCompileInputs.cache
+C:\301Sabah\MvCCoreApi\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.1\PersonelApi.RazorAssemblyInfo.cache
+C:\301Sabah\MvCCoreApi\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.1\PersonelApi.RazorAssemblyInfo.cs
+C:\301Sabah\MvCCoreApi\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.1\PersonelApi.AssemblyInfoInputs.cache
+C:\301Sabah\MvCCoreApi\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.1\PersonelApi.AssemblyInfo.cs
+C:\301Sabah\MvCCoreApi\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.1\PersonelApi.RazorTargetAssemblyInfo.cache
+C:\301Sabah\MvCCoreApi\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.1\PersonelApi.dll
+C:\301Sabah\MvCCoreApi\PersonelApi\PersonelApi\obj\Debug\netcoreapp2.1\PersonelApi.pdb
